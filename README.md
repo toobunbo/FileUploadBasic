@@ -61,6 +61,7 @@ Script chỉ là một cách để viết, còn nhiều mà làm biếng quá
 </script>
 ```
 ~~khi nào siêng sẽ làm thêm về bypass khi up được shell (fillter system,ls,space,cat,...)~~
+``còn thiếu waf mà làm biếng quá ``
 
 
 
